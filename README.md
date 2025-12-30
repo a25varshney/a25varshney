@@ -1,5 +1,5 @@
-# 💫 About Me:
-Hey, I’m Abhishek Varshney 👨‍💻
+# About Me:
+Hey, I’m Abhishek Varshney
 
 I’m a Senior Backend Developer based in Delhi, India, building scalable platforms and automation-heavy systems—mostly with Java + Spring Boot on AWS.
 
