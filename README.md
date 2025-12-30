@@ -15,9 +15,6 @@ What I’ve worked on recently
 * Consolidated forums into a unified microservice and automated a large share of query responses using Claude AI + workflow tools.
 * Diagnosed and fixed a production out-of-memory issue using New Relic + logs, leading to a 33% reduction in infrastructure costs.
 
-Tech I use
-Java, Spring Boot/Spring MVC, REST APIs, Microservices, Serverless (AWS Lambda), Event-driven systems (SQS/SNS), MySQL, PostgreSQL, Docker, Git, Postman, New Relic, AWS (API Gateway, RDS, CloudFront, EC2, Bedrock).
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek25varshney/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishek25varshney@gmail.com) 
 
