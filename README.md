@@ -1,19 +1,17 @@
 # About Me:
-Hey, I’m Abhishek Varshney
+Hey, I’m Abhishek Varshney 👋
 
-I’m a Senior Backend Developer based in Delhi, India, building scalable platforms and automation-heavy systems—mostly with Java + Spring Boot on AWS.
+Senior Backend Developer (Delhi, India) building scalable backend systems with **Java, Spring Boot, and AWS** — microservices, serverless, and event-driven architectures.
 
-I enjoy designing clean backend architectures and shipping features that move real metrics—like improving engagement, reducing latency, and cutting manual ops work.
+- ⚙️ I like: clean APIs, reliable systems, performance tuning, automation
+- 🌱 Currently exploring: AI-assisted dev workflows + backend automation
+- 🤝 Open to: backend/system design collaborations and OSS contributions
 
-What I’ve worked on recently
+## Highlights
+- Built event-driven and serverless systems handling high-volume user interactions
+- Worked on latency reduction, reliability improvements, and production debugging/observability
+- Strong with AWS services (Lambda, API Gateway, SQS/SNS, RDS, CloudFront) and backend tooling
 
-* Built a real-time personalized Study Planner.
-* Engineered a real-time execution tracker using AWS SQS, reducing implementation time by 40% with Claude Code.
-* Developed an automated subscription recommendation engine, reducing manual queries by 96% and improving conversions by 38%.
-* Implemented a fully serverless media interaction tracker (Lambda + S3 + CloudFront), capturing 10,000+ daily video interactions.
-* Migrated a legacy quiz platform from a stateful monolith to a stateless architecture, reducing latency by 40%.
-* Consolidated forums into a unified microservice and automated a large share of query responses using Claude AI + workflow tools.
-* Diagnosed and fixed a production out-of-memory issue using New Relic + logs, leading to a 33% reduction in infrastructure costs.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek25varshney/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishek25varshney@gmail.com) 
