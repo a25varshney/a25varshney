@@ -3,15 +3,15 @@ Hey, I’m Abhishek Varshney 👨‍💻
 
 I’m a Senior Backend Developer based in Delhi, India, building scalable platforms and automation-heavy systems—mostly with Java + Spring Boot on AWS.
 
-I enjoy designing clean backend architectures (microservices, serverless, event-driven flows) and shipping features that move real metrics—like improving engagement, reducing latency, and cutting manual ops work.
+I enjoy designing clean backend architectures and shipping features that move real metrics—like improving engagement, reducing latency, and cutting manual ops work.
 
 What I’ve worked on recently
 
-* Built a real-time personalized Study Planner for 1,000+ daily users.
-* Engineered a real-time execution tracker using AWS SQS (event-driven + async updates), reducing implementation time by 40% with Claude Code.
+* Built a real-time personalized Study Planner.
+* Engineered a real-time execution tracker using AWS SQS, reducing implementation time by 40% with Claude Code.
 * Developed an automated subscription recommendation engine, reducing manual queries by 96% and improving conversions by 38%.
 * Implemented a fully serverless media interaction tracker (Lambda + S3 + CloudFront), capturing 10,000+ daily video interactions.
-* Migrated a legacy quiz platform from a stateful monolith to a stateless microservice architecture, reducing latency by 40%.
+* Migrated a legacy quiz platform from a stateful monolith to a stateless architecture, reducing latency by 40%.
 * Consolidated forums into a unified microservice and automated a large share of query responses using Claude AI + workflow tools.
 * Diagnosed and fixed a production out-of-memory issue using New Relic + logs, leading to a 33% reduction in infrastructure costs.
 
