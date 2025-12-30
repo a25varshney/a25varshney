@@ -1,6 +1,22 @@
 # 💫 About Me:
-## Hey, I'm Abhishek Varshney 👨‍💻<br>I'm a **Senior Backend Developer** based in **Delhi, India**, building scalable platforms and automation-heavy systems—mostly with **Java + Spring Boot** on **AWS**.<br><br>I enjoy designing clean backend architecture and shipping features that move real metrics—like improving engagement, reducing latency, and cutting manual ops work.<br><br>**What I’ve worked on recently**<br>- 🚀 Built real-time learning & tracking systems used by **1,000+ daily users**<br>- 🧠 Developed subscription recommendation and automation modules that boosted conversions and reduced support load<br>- ⚙️ Migrated legacy systems from stateful monoliths to **stateless microservice** to improve scalability and cut latency<br>- ☁️ Implemented serverless workflows on AWS (Lambda, S3, CloudFront, SQS/SNS) for high-volume media interaction tracking<br>- 🔍 Solved production performance issues using **New Relic** and log analysis (including a critical OOM edge case)<br><br>**Tech I use**<br>- **Java, Spring Boot, REST APIs, Microservices, Serverless (AWS Lambda)**<br>- **MySQL, PostgreSQL**<br>- **AWS (Lambda, API Gateway, SQS/SNS, RDS, CloudFront, EC2, Bedrock)**<br>- **Docker, Git, Postman, New Relic**<br><br>**Currently**<br>- 🌱 Exploring more AI-assisted development + workflow automation (Claude/AI tooling)<br>- 🤝 Open to collaborating on backend systems, AWS architectures, and platform automation<br>
+Hey, I’m Abhishek Varshney 👨‍💻
 
+I’m a Senior Backend Developer based in Delhi, India, building scalable platforms and automation-heavy systems—mostly with Java + Spring Boot on AWS.
+
+I enjoy designing clean backend architectures (microservices, serverless, event-driven flows) and shipping features that move real metrics—like improving engagement, reducing latency, and cutting manual ops work.
+
+What I’ve worked on recently
+
+* Built a real-time personalized Study Planner for 1,000+ daily users.
+* Engineered a real-time execution tracker using AWS SQS (event-driven + async updates), reducing implementation time by 40% with Claude Code.
+* Developed an automated subscription recommendation engine, reducing manual queries by 96% and improving conversions by 38%.
+* Implemented a fully serverless media interaction tracker (Lambda + S3 + CloudFront), capturing 10,000+ daily video interactions.
+* Migrated a legacy quiz platform from a stateful monolith to a stateless microservice architecture, reducing latency by 40%.
+* Consolidated forums into a unified microservice and automated a large share of query responses using Claude AI + workflow tools.
+* Diagnosed and fixed a production out-of-memory issue using New Relic + logs, leading to a 33% reduction in infrastructure costs.
+
+Tech I use
+Java, Spring Boot/Spring MVC, REST APIs, Microservices, Serverless (AWS Lambda), Event-driven systems (SQS/SNS), MySQL, PostgreSQL, Docker, Git, Postman, New Relic, AWS (API Gateway, RDS, CloudFront, EC2, Bedrock).
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhishek25varshney/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishek25varshney@gmail.com) 
